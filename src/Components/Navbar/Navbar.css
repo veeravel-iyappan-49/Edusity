@@ -37,7 +37,11 @@ nav ul li {
   padding-left: 10%;
   padding-right: 10%;
 }
-.btn img{
+.btn img {
   width: 20px;
   margin-left: 10px;
+}
+.dark-nav {
+  background: #212ea0;
+  transition: 0.5s;
 }
