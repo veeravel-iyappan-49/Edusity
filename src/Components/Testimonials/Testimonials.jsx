@@ -22,7 +22,7 @@ const Testimonials = () => {
     if (tx < 0) {
       tx += 25;
     }
-    slider.current.style.transform = `translateX(${tx}%)`;
+    // slider.current.style.transform = `translateX(${tx}%)`;
   };
 
   return (
